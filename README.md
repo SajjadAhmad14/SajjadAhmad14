@@ -60,11 +60,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjadahmad14/">
-    <img height='20' src="https://img.shields.io/badge/LinkedIn-SajjadAhmad-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/LinkedIn-sajjadahmad14-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
   <a href="https://github.com/SajjadAhmad14">
-    <img height='20' src="https://img.shields.io/badge/Github-SajjadAhmad14-red?logo=Github&logoColor=red&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/Github-sajjadAhmad14-red?logo=Github&logoColor=red&labelColor=black">
   </a>
 
   <a href="https://twitter.com/Sajjad_Ahmad14">
