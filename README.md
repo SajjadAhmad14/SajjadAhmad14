@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sajjadahmad14/">
-    <img height='20' src="https://img.shields.io/badge/LinkedIn-MkrtichSargsyan-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/LinkedIn-SajjadAhmad-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
   <a href="https://github.com/SajjadAhmad14">
