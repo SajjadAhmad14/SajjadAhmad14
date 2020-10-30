@@ -1,7 +1,7 @@
 <h1><i>Hello there,fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h4>
-  You can call me Ahmad :blush: <br>
+  I am Sajjad Ahmad :blush: <br>
   I'm a passionate full stack web developer from Pakistan.
 </h4>
 
