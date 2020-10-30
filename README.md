@@ -1,4 +1,4 @@
-<h1><i>Hello there,fellow <𝚌𝚘𝚍𝚎𝚛𝚜/>!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1><i>Hello World!</i> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h4>
   I am Sajjad Ahmad :blush: <br>
