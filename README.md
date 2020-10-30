@@ -5,7 +5,7 @@
   I'm a passionate full stack web developer from Pakistan.
 </h4>
 
-<h3> 👨🏻‍💻 &nbsp; Talking about Personal Stuff:</h3> 
+<h3> 👨🏻‍💻 &nbsp; About me:</h3> 
 
 - 🔭 I’m currently a full time student at Microverse Inc.
 - 🌱 I’m currently learning Full-Stack Web Development (Ruby on Rails, JavaScript and React)
