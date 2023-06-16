@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 &nbsp; About me:</h3> 
 
-- 🔭 I’m currently a code reviewer at Microverse Inc.
+- 🔭 I’m currently a Ruby on Rails developer at Clarity, for Charities.
 - 🌱 I’m a Full-Stack Developer (Ruby on Rails, JavaScript and React)
 - 👯 I’m looking to collaborate on Ruby on Rails, JavaScript, and React Projects
 - 💬 Ask me about anything, I am happy to Help
