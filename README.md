@@ -2,7 +2,7 @@
 
 <h4>
   I am Sajjad Ahmad :blush: <br>
-  I'm a passionate full stack web developer from Pakistan.
+  I'm a passionate full stack developer from Pakistan.
 </h4>
 
 <h3> 👨🏻‍💻 &nbsp; About me:</h3> 
