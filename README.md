@@ -8,7 +8,7 @@
 <h3> 👨🏻‍💻 &nbsp; About me:</h3> 
 
 - 🔭 I’m currently contributing to open source as a Ruby on Rails developer at Ruby for Good.
-- 🌱 I’m a Full-Stack Developer (Ruby on Rails, JavaScript and React)
+- 🌱 I’m a Full-Stack Developer (Ruby on Rails, JavaScript, StimulusJS, and React)
 - 👯 I’m looking to collaborate on Ruby on Rails, JavaScript, and React Projects
 - 💬 Ask me about anything, I am happy to Help
 - 📄 Please have a look at my [Résumé](https://docs.google.com/document/d/1fjjT02ogybtiZxM1tVC71geg7u8QqwC0eAcuynhUgrM/edit?usp=sharing) for more details about me. I'm open to feedback and suggestions!
